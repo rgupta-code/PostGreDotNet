@@ -5,6 +5,4 @@ This is a C# example that connects to PostgreSQL using Npgsql (instead of JDBC),
 
 Before starting, Install the Npgsql and System.Data.SqlClient NuGet packages for PostgreSQL and SQL Server, respectively.
 
-dotnet add package Npgsql
-dotnet add package System.Data.SqlClient
 
